@@ -1,0 +1,27 @@
+{
+    "items": {
+      "carousel": [
+        {
+          "id": 1,
+          "title": "Photography",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://www.asbeas.com.br/wp-content/uploads/2025/04/slider_pp_francisco_abril2025.png",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 2,
+          "title": "City Views",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://www.asbeas.com.br/wp-content/uploads/2025/02/slider_sdp_VC2025.png",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        },
+        {
+          "id": 3,
+          "title": "Wild Life",
+          "body": "Bootstrap Carousel Example",
+          "imageUrl": "https://www.asbeas.com.br/wp-content/uploads/2024/02/jubil2025.png",
+          "docs": "https://getbootstrap.com/docs/4.0/components/carousel/"
+        }
+      ]
+    }
+  }
